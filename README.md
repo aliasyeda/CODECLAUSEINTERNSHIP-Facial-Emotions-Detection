@@ -96,3 +96,9 @@ Learned how to preprocess grayscale images for deep learning
 Learned how to integrate OpenCV for image handling and prediction
 
 Understood model saving/loading for practical deployment
+
+## 👨‍💻 Author
+
+Developed by
+**Syeda Alia Samia**  
+GitHub:[Syeda Alia Samia](https://github.com/your-github-username)
