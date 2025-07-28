@@ -82,7 +82,7 @@ High flexibility to test custom images
 
 
 ## ✅ Final Output
-The model successfully predicts and displays the emotion associated with facial images such as:
+The model successfully predicts and displays the emotion associated with facial images on sample.png :
 ✅ Predicted Emotion: Angry
 
 ## 📚 Learning Outcome
